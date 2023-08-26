@@ -1,1 +1,2 @@
-# lc3
+# Learning Little Computer 3
+
