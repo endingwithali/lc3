@@ -1,0 +1,4 @@
+github.com/bits-and-blooms/bitset v1.8.0 h1:FD+XqgOZDUxxZ8hzoBFuV9+cGWY9CslN6d5MS5JVb4c=
+github.com/bits-and-blooms/bitset v1.8.0/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6a/7QIWpPxHddWR8=
+github.com/emer/etable v1.1.24 h1:lxcZFalEERTQJpbAR0nNfyM4+K/ku2H+Nl6y4cmDHyE=
+github.com/emer/etable v1.1.24/go.mod h1:FBZBONSUL1EjWCoXckKpiGIBAoTFIBdif7tgPj+HjNs=
